@@ -37,7 +37,7 @@
 
 ## Questions
     For questions please refer to 
-    [Github](https://www.github.com/krooksoma)  
+    [Github](https://github.com/krooksoma)  
     or
     romulojusto@gmail.com
     
