@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
-const bage = require('badges');
+
 
 // TODO: Create an array of questions for user input
 const questions = [];
@@ -33,6 +33,12 @@ function init() {
        type: 'input',
        name: 'description' ,
        message: 'what is your project description?',
+    },
+    {
+       type: 'input',
+       name: 'license' ,
+       message: 'what is your project License?',
+       default: 'M.I.T'
     },
     {
         type: 'input',
