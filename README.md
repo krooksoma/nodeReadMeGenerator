@@ -1,6 +1,6 @@
-![badge](https://img.shields.io/static/v1?label=license&message=M.I.T&color=<green>)
+![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=<green>)
 
-# North America Weather Map
+# README.md File Generator
 
 
     
@@ -9,31 +9,31 @@
 ## Table of Contents
     
 [Description](#description)
-[Installation](#installation)
-[Usage Info](#usage)
+[Installation](#installation-instructions)
+[Usage Info](#usage-info)
 [contribution](#contribution)
-[Testing Instructions](#test)
+[Testing Instructions](#test-instructions)
 [License](#license)
 [Questions](#questions)
     
 
 ## Description
-    A project developed with HTML, CSS, JavaScript and third part APIs to help the user find weather data about a location.
+    This is a markdown file generator developed 100% with JS language.
 
 ## Installation Instructions
-    No installation necessary. The application runs on the web browser.
+    git clone the repository in you machine and watch the usage video linked below.
 
 ## Usage info
-    type down the location u want to look for and click on the submit button.
+    watch the video for a detailed explanation.
 
 ## Contribution
-    open to contributions upon request.
+    Open for contributions upon request.
 
 ## Test Instructions
     undefined.    
 
 ## License
-    This project is covered under M.I.T license.
+    This project is covered under MIT license.
 
 ## Questions
     For questions please refer to 

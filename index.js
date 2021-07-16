@@ -38,7 +38,7 @@ function init() {
        type: 'input',
        name: 'license' ,
        message: 'what is your project License?',
-       default: 'M.I.T'
+       default: 'MIT'
     },
     {
         type: 'input',
