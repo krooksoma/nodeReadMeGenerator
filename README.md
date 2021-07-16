@@ -8,13 +8,13 @@
 
 ## Table of Contents
     
-[Description](#description)
-[Installation](#installation-instructions)
-[Usage Info](#usage-info)
-[contribution](#contribution)
-[Testing Instructions](#test-instructions)
-[License](#license)
-[Questions](#questions)
+* [Description](#description)
+* [Installation](#installation-instructions)
+* [Usage Info](#usage-info)
+* [contribution](#contribution)
+* [Testing Instructions](#test-instructions)
+* [License](#license)
+* [Questions](#questions)
     
 
 ## Description
