@@ -25,7 +25,7 @@
 
 ## Usage info
     watch the video for a detailed explanation.
-    ![installation video](https://drive.google.com/file/d/1XSAUsQiUQeZMURRqSqqfQ8Cu3-Qd8W85/view)
+   ![installation video](https://drive.google.com/file/d/1XSAUsQiUQeZMURRqSqqfQ8Cu3-Qd8W85/view)
 
 ## Contribution
     Open for contributions upon request.
@@ -38,7 +38,7 @@
 
 ## Questions
     For questions please refer to 
-    [Github](https://github.com/krooksoma)  
+   [Github](https://github.com/krooksoma)  
     or
     romulojusto@gmail.com
     
