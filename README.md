@@ -25,6 +25,7 @@
 
 ## Usage info
     watch the video for a detailed explanation.
+    https://drive.google.com/file/d/1XSAUsQiUQeZMURRqSqqfQ8Cu3-Qd8W85/view
 
 ## Contribution
     Open for contributions upon request.
